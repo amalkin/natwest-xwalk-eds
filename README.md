@@ -2,6 +2,21 @@
 
 A demo NatWest-branded banking site built on **AEM Edge Delivery Services (EDS)**, authored via **Universal Editor / AEM as a Content Source (xwalk)**. Used as a hands-on demo of AEM CS + Universal Editor + EDS + Content Fragments working together.
 
+## Setup
+
+Using Assets:
+* https://wiki.corp.adobe.com/pages/viewpage.action?pageId=4030791330&spaceKey=demopoc&title=AEM%2BEDS%2B-%2BNatWest%2BHOL
+* https://github.com/Skiper76/natwest-xwalk
+* https://tvdocs.adobe.com/natwest-eds/lab-1-building-custom-blocks
+* https://natwest-spa.vercel.app/
+
+### Steps
+
+![alt text](<assets/config-code.png>)
+![alt text](<assets/config-content.png>)
+![alt text](<assets/config-setup.png>)
+![alt text](<assets/config-final.png>)
+
 ## Environments
 
 | Environment | URL |
