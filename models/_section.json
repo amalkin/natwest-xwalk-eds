@@ -75,6 +75,7 @@
     {
       "id": "section",
       "components": [
+        "quote-lab",
         "text",
         "image",
         "button",

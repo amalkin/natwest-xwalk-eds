@@ -8,6 +8,7 @@
   {
     "id": "section",
     "components": [
+      "quote-lab",
       "text",
       "image",
       "button",
@@ -33,8 +34,7 @@
       "breadcrumbs",
       "quote",
       "ranking-chart",
-      "cf-card",
-      "contentfragment"
+      "cf-card"
     ]
   },
   {
