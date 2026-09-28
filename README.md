@@ -2,6 +2,18 @@
 
 A demo NatWest-branded banking site built on **AEM Edge Delivery Services (EDS)**, authored via **Universal Editor / AEM as a Content Source (xwalk)**. Used as a hands-on demo of AEM CS + Universal Editor + EDS + Content Fragments working together.
 
+## Environments
+
+| Environment | URL |
+|---|---|
+| Author (edit content here) | https://author-p46152-e633525.adobeaemcloud.com |
+| Preview (previewed content) | https://main--natwest-xwalk-eds--amalkin.aem.page/ |
+| Live (published content) | https://main--natwest-xwalk-eds--amalkin.aem.live/ |
+| GitHub repo | https://github.com/amalkin/natwest-xwalk-eds |
+| Cloud Manager program | "adobe_alastair_malkin" |
+
+To edit a page, open it on the **author** host and append `?cmd=open` via the Sidekick, or open the page directly in Universal Editor from AEM Sites.
+
 ## Setup
 
 Using Assets:
@@ -16,18 +28,6 @@ Using Assets:
 ![alt text](<assets/config-content.png>)
 ![alt text](<assets/config-setup.png>)
 ![alt text](<assets/config-final.png>)
-
-## Environments
-
-| Environment | URL |
-|---|---|
-| Author (edit content here) | https://author-p46152-e633525.adobeaemcloud.com |
-| Preview (previewed content) | https://main--natwest-xwalk-eds--amalkin.aem.page/ |
-| Live (published content) | https://main--natwest-xwalk-eds--amalkin.aem.live/ |
-| GitHub repo | https://github.com/amalkin/natwest-xwalk-eds |
-| Cloud Manager program | "adobe_alastair_malkin" |
-
-To edit a page, open it on the **author** host and append `?cmd=open` via the Sidekick, or open the page directly in Universal Editor from AEM Sites.
 
 ## Site map
 
